@@ -39,5 +39,14 @@ The system processes unstructured text through a vectorization pipeline to measu
 
 ### Environment Initialization
 ```bash
+# Clone and enter the repository
+git clone [https://github.com/Karthi-1211/Skill-Gap-AI.git](https://github.com/Karthi-1211/Skill-Gap-AI.git)
+cd Skill-Gap-AI
 
+# Set up the virtual environment
+python -m venv env
+source env/bin/activate  # Windows: .\env\Scripts\activate
 
+# Install dependencies and NLP models
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
