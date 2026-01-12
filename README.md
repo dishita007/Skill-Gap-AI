@@ -128,20 +128,4 @@ streamlit run main.py
 
 ---
 
-<div align="center">
 
-### 🤝 Join the Revolution
-
-Contributions, issues, and feature requests are welcome!<br>Feel free to check [issues page](https://github.com/Karthi-1211/Skill-Gap-AI/issues).
-
-**Give a ⭐️ if this project helped you!**
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Built%20with-Love%20%26%20AI-red?style=for-the-badge" height="30">
-</p>
-
-Built by **[Karthi](https://github.com/Karthi-1211)**
-
-</div>
